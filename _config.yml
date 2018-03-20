@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kevin Setinke
+name: Kevin Steinke
 
 # Short bio or description (displayed in the header)
 description: Developer from Nor Cal
@@ -19,9 +19,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: kjsteinke@gmail.com
+  github: kjsteinke
   facebook: kevin.steinke
   flickr:
-  github: kjsteinke
   instagram:
   linkedin: kevinsteinke
   pinterest:
@@ -37,11 +37,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-177087-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:http://www.kevinsteinke.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
