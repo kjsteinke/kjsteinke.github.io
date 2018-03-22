@@ -11,10 +11,10 @@ I was born to an entrepreneurial father and an opera singing mother. I attended 
 Currently my Dev insterest are:
 
 
-PWA - Progerssive web app development
-React
-QueryGL (QGL) 
-Vue
+- PWA - Progerssive web app development
+- React
+- QueryGL (QGL) 
+- Vue
 
 
 ### Contact me
