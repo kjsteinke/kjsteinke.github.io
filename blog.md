@@ -1,17 +1,19 @@
 ---
-layout: singlePage
+layout: default
 title: "Blog Posts"
 ---
 
-# Blog Posts
-
-<table class="table table-hover">
+<div class="posts">
   {% for post in site.posts %}
-    {% unless post.draft %}
-    <tr>
-      <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-      <td class="col-md-3" style="text-align: right;">{{ post.date | date: "%B %e, %Y" }}</td>
-    </tr>
-    {% endunless %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
   {% endfor %}
-</table>
+</div>
