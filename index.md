@@ -17,7 +17,8 @@ Currently my Dev insterest are:
 - Vue
 
 
-Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God..
+Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.
+
 _ Philippians 4:6_
 
 ### Contact me
