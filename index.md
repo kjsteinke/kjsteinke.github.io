@@ -20,7 +20,7 @@ Currently my Dev insterest are:
 
 Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.
 
-<b><i>Philippians 4:6</i></b>
+   -<b><i>Philippians 4:6</i></b>
 
 
 
