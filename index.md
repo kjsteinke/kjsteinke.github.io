@@ -18,7 +18,7 @@ Currently my Dev insterest are:
 
 
 Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God..
-- Philippians 4:6
+*** - Philippians 4:6***
 
 ### Contact me
 
