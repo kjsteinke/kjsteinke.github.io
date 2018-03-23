@@ -8,7 +8,7 @@ I was born to an entrepreneurial father and an opera singing mother. I attended 
 
 ### Dev Interest
 
-Currently my Dev insterest are:
+Currently my Development insterest are:
 
 
 - PWA - Progerssive web app development
