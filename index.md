@@ -8,10 +8,10 @@ I was born to an entrepreneurial father and an opera singing mother. I attended 
 
 ### Dev Interest
 
-Currently my Development insterest are:
+Currently my Development interest are:
 
 
-- PWA - Progerssive web app development
+- PWA - Progressive web app development
 - React
 - GraphQL (GQL) 
 - Vue
