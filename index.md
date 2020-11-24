@@ -27,5 +27,5 @@ Do not be anxious about anything, but in every situation, by prayer and petition
 ### Contact me
 
 [kjsteinke@gmail.com](mailto:kjsteinke@gmail.com)
-
+[https://parler.com/profile/Kjsteinke/posts] @kjsteinke at Parler.com
 
