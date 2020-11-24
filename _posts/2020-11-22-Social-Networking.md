@@ -1,0 +1,15 @@
+---
+layout: post
+title: Alternate Social Networks!
+---
+
+The likes of Twitter, Facebook, Google/Youtube, etc... 
+being in the news lately with privacy and censorship issues... 
+I have decided to check into social networks that are more geared towards valuing ones privacy and will let me decide on news worthyness without suppresion.
+
+So Far Looking into:
+- Parler.com  [@kjsteinke at Parler.com](https://parler.com/profile/Kjsteinke/posts)
+
+- MeWe.com    [KevinSteinke at MeWe.com](https://mewe.com/i/kevinsteinke)
+
+
