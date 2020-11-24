@@ -20,7 +20,7 @@ Currently my Development interest are:
 
 [The Right Stuff](https://en.wikipedia.org/wiki/The_Right_Stuff_(book))
 
-### Favorit Song
+### Favorite Song
 
 [Live and Let Die by Wings](https://en.wikipedia.org/wiki/Live_and_Let_Die_(song))
 
