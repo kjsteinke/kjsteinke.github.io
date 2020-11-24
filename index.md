@@ -22,13 +22,13 @@ Currently my Development interest are:
 
 ### Favorit Song
 
-Live and Let Die 
+[Live and Let Die by Wings](https://en.wikipedia.org/wiki/Live_and_Let_Die_(song))
 
 ### Favorite verse
 
 Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.
 
-   -<b><i>Philippians 4:6</i></b>
+   -[<b><i>Philippians 4:6</i></b>](https://www.biblegateway.com/passage/?search=Philippians%204%3A6&version=NIV)
 
 
 
