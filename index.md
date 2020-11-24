@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I was born to an entrepreneurial father and an opera singing mother, in Southern California. I resided in Torrance, Palos Verdes, Irvine and San Juan Capistrano. I graduated from Capistrano Valley High School and Cal State University Fullerton. I currently live with my wife and 2 childeren in Placer County (Northern California). I am working as a software deveoper.
+I was born to an entrepreneurial father and an opera singing mother, in Southern California. I resided in Torrance, Palos Verdes, Irvine and San Juan Capistrano. I graduated from Capistrano Valley High School and Cal State University Fullerton. I currently live with my wife and 2 children in Placer County (Northern California). I am working as a software developer.
 
 ### Dev Interest
 
