@@ -4,17 +4,25 @@ title: About
 permalink: /
 ---
 
-I was born to an entrepreneurial father and an opera singing mother. I attended Capistrano Valley High School where I played football; but as soon as I was able to drive, I spent my mornings surfing at Salt Creek Beach in Dana Point (it was actually a P.E. class) and weekends surfing in San Clemente. I attended Cal State University Fullerton; where I graduated with a degree in Information Systems.
+I was born to an entrepreneurial father and an opera singing mother, in Southern California. I resided in Torrance, Palos Verdes, Irvine and San Juan Capistrano. I graduated from Capistrano Valley High School and Cal State University Fullerton. I currently live with my wife and 2 childeren in Placer County (Northern California). I am working as a software deveoper.
 
 ### Dev Interest
 
 Currently my Development interest are:
 
+- [.Net Core Development](https://en.wikipedia.org/wiki/.NET_Core)
+- [SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
+- [Blazor](https://en.wikipedia.org/wiki/Blazor)
+- [Powershell](https://en.wikipedia.org/wiki/PowerShell)
+- [PWA - Progressive web app development](https://en.wikipedia.org/wiki/Progressive_web_application)
 
-- PWA - Progressive web app development
-- React
-- GraphQL (GQL) 
-- Vue
+### Favorite Book and Movie.
+
+[The Right Stuff](https://en.wikipedia.org/wiki/The_Right_Stuff_(book))
+
+### Favorit Song
+
+Live and Let Die 
 
 ### Favorite verse
 
