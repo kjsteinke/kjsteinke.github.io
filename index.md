@@ -39,3 +39,5 @@ Do not be anxious about anything, but in every situation, by prayer and petition
 [@kjsteinke at Parler.com](https://parler.com/profile/Kjsteinke/posts)
 <br>
 [KevinSteinke at MeWe.com](https://mewe.com/i/kevinsteinke)
+
+Other ways in footer.....
