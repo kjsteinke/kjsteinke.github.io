@@ -36,8 +36,8 @@ Do not be anxious about anything, but in every situation, by prayer and petition
 
 [kjsteinke@gmail.com](mailto:kjsteinke@gmail.com)
 <br>
-[@kjsteinke at Parler.com](https://parler.com/KjSteinke)
+[@kjsteinke at Parler.com](https://parler.com/KjSteinke){:target="_blank"} 
 <br>
-[KevinSteinke at MeWe.com](https://mewe.com/i/kevinsteinke)
+[KevinSteinke at MeWe.com](https://mewe.com/i/kevinsteinke){:target="_blank"} 
 
 Other ways in footer.....
