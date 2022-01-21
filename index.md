@@ -36,7 +36,7 @@ Do not be anxious about anything, but in every situation, by prayer and petition
 
 [kjsteinke@gmail.com](mailto:kjsteinke@gmail.com)
 <br>
-[@kjsteinke at Parler.com](https://parler.com/profile/Kjsteinke/posts)
+[@kjsteinke at Parler.com](https://parler.com/KjSteinke)
 <br>
 [KevinSteinke at MeWe.com](https://mewe.com/i/kevinsteinke)
 
