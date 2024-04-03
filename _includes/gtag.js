@@ -1,4 +1,4 @@
-!-- Google tag (gtag.js) -->
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WEENMS9FCD"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
