@@ -14,4 +14,4 @@ I have added below the links to My Amazon Gift List. Kelly's is also listed.
 
 ### Kelly's Amazon Links:
 
-- [Kelly's Default List](https://www.amazon.com/hz/wishlist/ls/207SLXE0FDCQU?ref_=wl_share)
+- [Kelly's Default List](https://www.amazon.com/hz/wishlist/ls/1WQZ11IS8WQ5B?ref_=wl_share)
