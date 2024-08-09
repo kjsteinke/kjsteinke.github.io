@@ -12,7 +12,7 @@ I have added below the links to My Amazon Gift List. Kelly's is also listed.
 - [Kevin's Shampoo/shower List](https://www.amazon.com/hz/wishlist/ls/1QZVMZFC912K7?ref_=wl_share)
 - [Kevin's Cologne List](https://www.amazon.com/hz/wishlist/ls/207SLXE0FDCQU?ref_=wl_share)
 
-### Kevin's Look's Interesting - Clothing Links:
+### Kevin's Clothing store Links:
 - [RoyaUra Clothing](https://www.royaura.com/)
 
 
