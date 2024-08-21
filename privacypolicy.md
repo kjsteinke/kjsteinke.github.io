@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacy Policies, Terms, and Conditions
 permalink: /privacypolicy
 ---
-
-# Privacy Policies, Terms, and Conditions
 
 ### Purpose of this website
 The Blog section of this page is a blog with posts on different topics. This website contains informative, educational, and entertaining articles. The Gift List page is intended for humor and educational information. This website does not offer paid content or paid services and is entirely free.
