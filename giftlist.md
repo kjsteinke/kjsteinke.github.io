@@ -24,3 +24,5 @@ I have added below the links to My Amazon Gift List. Kelly's is also listed.
 
 - [Rachel's Gift List](https://www.amazon.com/hz/wishlist/ls/17S9ZKRKE96RI?ref_=wl_share)
   
+### Jon's Amazon Link:
+- [Jon's Gift List](https://www.amazon.com/hz/wishlist/dl/invite/t=1:AQICAHild4Vpadjqcz7bdgUf6Qu6-OaRt7P_FJRNNbyMlg-OQwEIm2MSa48tiI6NQMOz26LrAAAAkTCBjgYJKoZIhvcNAQcGoIGAMH4CAQAweQYJKoZIhvcNAQcBMB4GCWCGSAFlAwQBLjARBAxrBCaSvoosivTf0hgCARCATFjgGlfLvJ7Abi_PwRZF0i5fHFJTeKHbGgp9wQwfOhpNirTY0cDOyBM96m37elyESXXrSEmMl_5Atn4KZPNRXWXnTsIFgYzmfC5naNg?ref_=wl_share)
