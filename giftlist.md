@@ -1,8 +1,8 @@
----
-layout: page
-title: Gift List
-permalink: /giftlist
----
+//---
+//layout: page
+//title: Gift List
+//permalink: /giftlist
+//---
 
 I have added below the links to My Amazon Gift List. Kelly's is also listed.
 
