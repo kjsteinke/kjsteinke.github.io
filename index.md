@@ -14,7 +14,7 @@ Currently my Development interest are:
 - [SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 - [Blazor](https://en.wikipedia.org/wiki/Blazor)
 - [Powershell](https://en.wikipedia.org/wiki/PowerShell)
-- [PWA - Progressive web app development](https://en.wikipedia.org/wiki/Progressive_web_application)
+
 
 ### Favorite Book and Movie.
 
