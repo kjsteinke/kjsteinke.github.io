@@ -2,6 +2,7 @@
 title: Agentic Engineering with Claude Code, Blazor and a Hybrid Data Layer
 description: How I pair an AI coding agent with .NET, Blazor, Radzen components, Dapper and Entity Framework to build line-of-business apps on SQL Server.
 tags: [agentic engineering, claude code, blazor, dotnet, sql server]
+image: /images/agentic-engineering-cover.jpg
 ---
 
 Over the last year the way I write software has changed more than it did in the previous decade. I still design, review and own every line that ships, but much of the typing is now done by an AI agent working alongside me. People have started calling this **agentic engineering**, and it's how I work at my current job in the County of Placer IT Department.
