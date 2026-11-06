@@ -19,7 +19,7 @@ interests:
     icon: database
     url: https://en.wikipedia.org/wiki/Microsoft_SQL_Server
   - name: Blazor
-    blurb: Interactive web UIs in C#
+    blurb: Interactive web applications in C#
     icon: web
     url: https://en.wikipedia.org/wiki/Blazor
   - name: PowerShell
