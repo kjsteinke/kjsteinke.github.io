@@ -1,20 +1,12 @@
 ---
-layout: default
-title: "Blog Posts"
+layout: page
+title: Blog
+subtitle: Notes, ideas and experiments.
+permalink: /blog/
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="post-list">
+  {%- for post in site.posts %}
+    {% include post-card.html post=post %}
+  {%- endfor %}
 </div>
-

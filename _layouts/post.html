@@ -1,17 +1,43 @@
 ---
 layout: default
 ---
+<article class="container container--narrow post">
+  <a class="back-link" href="{{ '/blog/' | relative_url }}">{% include icon.html name="arrow-left" %} All posts</a>
+  <header class="page-header">
+    <p class="meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      <span aria-hidden="true">·</span>
+      {% include reading-time.html content=content %}
+    </p>
+    <h1>{{ page.title }}</h1>
+    {%- if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}
+    {%- if page.tags.size > 0 %}
+    <ul class="tags">{% for t in page.tags %}<li>{{ t }}</li>{% endfor %}</ul>
+    {%- endif %}
+  </header>
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+  {%- if page.image %}
+  <img class="post__cover" src="{{ page.image | relative_url }}" alt="">
+  {%- endif %}
 
-  <div class="entry">
+  <div class="prose">
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+  <nav class="post-nav" aria-label="More posts">
+    {%- if page.previous %}
+    <a class="card post-nav__link" href="{{ page.previous.url | relative_url }}">
+      <span class="post-nav__label">{% include icon.html name="arrow-left" %} Older</span>
+      <span class="post-nav__title">{{ page.previous.title }}</span>
+    </a>
+    {%- else %}<span></span>{% endif %}
+    {%- if page.next %}
+    <a class="card post-nav__link post-nav__link--next" href="{{ page.next.url | relative_url }}">
+      <span class="post-nav__label">Newer {% include icon.html name="arrow" %}</span>
+      <span class="post-nav__title">{{ page.next.title }}</span>
+    </a>
+    {%- endif %}
+  </nav>
 
   {% include disqus.html %}
 </article>
