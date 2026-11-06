@@ -30,11 +30,11 @@ interests:
     blurb: My favorite open source components
     icon: code
     url: https://www.radzen.com
-   - name: Dapper
+  - name: Dapper
     blurb: Awesome and simple object mapper for .Net
     icon: code
     url: https://github.com/DapperLib/Dapper  
-   - name: Claude Code
+  - name: Claude Code
     blurb: An agentic AI coding assistant that operates directly inside your local codebase, and development environment.
     icon: code
     url: https://claude.com/product/claude-code
