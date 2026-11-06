@@ -6,6 +6,10 @@ permalink: /
 # ---- Cards on the home page. Add, remove or reorder items freely. ----
 # icon can be: code, database, web, terminal, book, film, music, star
 interests:
+  - name: Agentic Engineering using AI
+    blurb: Using Claude Code and Github Copilot
+    icon: code
+    url: https://www.ibm.com/think/topics/agentic-engineering
   - name: .NET Core
     blurb: Building fast, cross-platform services
     icon: code
@@ -22,6 +26,7 @@ interests:
     blurb: Automating everything
     icon: terminal
     url: https://en.wikipedia.org/wiki/PowerShell
+
 
 favorites:
   - label: Book & Movie
