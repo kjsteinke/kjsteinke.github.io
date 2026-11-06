@@ -6,8 +6,8 @@ permalink: /
 # ---- Cards on the home page. Add, remove or reorder items freely. ----
 # icon can be: code, database, web, terminal, book, film, music, star
 interests:
-  - name: Agentic Engineering using AI
-    blurb: Using Claude Code and Github Copilot
+  - name: Agentic Engineering
+    blurb: Using AI Agents in Claude Code and Github Copilot
     icon: code
     url: https://www.ibm.com/think/topics/agentic-engineering
   - name: .NET Core
@@ -26,7 +26,18 @@ interests:
     blurb: Automating everything
     icon: terminal
     url: https://en.wikipedia.org/wiki/PowerShell
-
+  - name: Radzen Components
+    blurb: My favorite open source components
+    icon: code
+    url: https://www.radzen.com
+   - name: Dapper
+    blurb: Awesome and simple object mapper for .Net
+    icon: code
+    url: https://github.com/DapperLib/Dapper  
+   - name: Claude Code
+    blurb: An agentic AI coding assistant that operates directly inside your local codebase, and development environment.
+    icon: code
+    url: https://claude.com/product/claude-code
 
 favorites:
   - label: Book & Movie
