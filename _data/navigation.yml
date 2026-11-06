@@ -4,7 +4,7 @@
   url: /
 - title: Blog
   url: /blog/
-# - title: Gift List
-#   url: /giftlist
+- title: Gift List
+  url: /giftlist
 - title: Privacy
   url: /privacypolicy
