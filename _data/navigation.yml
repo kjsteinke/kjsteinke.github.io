@@ -1,0 +1,10 @@
+# Links in the top menu. To add a page to the menu, add a line here.
+# To hide a page from the menu, remove (or comment out with #) its lines.
+- title: About
+  url: /
+- title: Blog
+  url: /blog/
+# - title: Gift List
+#   url: /giftlist
+- title: Privacy
+  url: /privacypolicy

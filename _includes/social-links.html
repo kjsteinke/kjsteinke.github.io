@@ -1,0 +1,9 @@
+{%- assign s = site.social -%}
+<ul class="social {{ include.class }}">
+  {%- if s.email %}<li><a href="mailto:{{ s.email }}" aria-label="Email">{% include icon.html name="email" %}</a></li>{% endif -%}
+  {%- if s.github %}<li><a href="https://github.com/{{ s.github }}" aria-label="GitHub" rel="me">{% include icon.html name="github" %}</a></li>{% endif -%}
+  {%- if s.linkedin %}<li><a href="https://www.linkedin.com/in/{{ s.linkedin }}/" aria-label="LinkedIn" rel="me">{% include icon.html name="linkedin" %}</a></li>{% endif -%}
+  {%- if s.facebook %}<li><a href="https://www.facebook.com/{{ s.facebook }}" aria-label="Facebook" rel="me">{% include icon.html name="facebook" %}</a></li>{% endif -%}
+  {%- if s.twitter %}<li><a href="https://x.com/{{ s.twitter }}" aria-label="X (Twitter)" rel="me">{% include icon.html name="twitter" %}</a></li>{% endif -%}
+  {%- if s.rss %}<li><a href="{{ '/feed.xml' | relative_url }}" aria-label="RSS feed">{% include icon.html name="rss" %}</a></li>{% endif -%}
+</ul>

@@ -1,0 +1,95 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="container hero__inner">
+    <div class="hero__text">
+      <p class="eyebrow">Hi there, I'm</p>
+      <h1 class="hero__title">{{ site.name }}</h1>
+      <p class="hero__tagline">{{ site.tagline }}</p>
+      {%- if site.location %}<p class="hero__location">📍 {{ site.location }}</p>{% endif %}
+      <div class="hero__actions">
+        <a class="btn btn--primary" href="{{ '/blog/' | relative_url }}">Read the blog {% include icon.html name="arrow" %}</a>
+        {%- if site.social.email %}<a class="btn" href="mailto:{{ site.social.email }}">Get in touch</a>{% endif %}
+      </div>
+      {% include social-links.html class="social--hero" %}
+    </div>
+    <div class="hero__photo">
+      <img src="{{ site.avatar | relative_url }}" alt="Photo of {{ site.name }}" width="320" height="320">
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <section class="section about">
+    <h2 class="section__title">About me</h2>
+    <div class="prose prose--lg">
+      {{ content }}
+    </div>
+  </section>
+
+  {%- if page.interests %}
+  <section class="section">
+    <h2 class="section__title">What I'm into right now</h2>
+    <div class="grid grid--4">
+      {%- for item in page.interests %}
+      <a class="card interest" href="{{ item.url }}" target="_blank" rel="noopener">
+        <span class="interest__icon">{% include icon.html name=item.icon %}</span>
+        <span class="interest__name">{{ item.name }}</span>
+        {%- if item.blurb %}<span class="interest__blurb">{{ item.blurb }}</span>{% endif %}
+      </a>
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endif %}
+
+  {%- if page.favorites %}
+  <section class="section">
+    <h2 class="section__title">A few favorites</h2>
+    <div class="grid grid--3">
+      {%- for f in page.favorites %}
+      <a class="card favorite" href="{{ f.url }}" target="_blank" rel="noopener">
+        <span class="favorite__label">{% include icon.html name=f.icon %} {{ f.label }}</span>
+        <span class="favorite__title">{{ f.title }}</span>
+      </a>
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endif %}
+
+  {%- if page.verse %}
+  <section class="section">
+    <figure class="quote">
+      <blockquote>{{ page.verse.text }}</blockquote>
+      <figcaption><a href="{{ page.verse.url }}" target="_blank" rel="noopener">{{ page.verse.reference }}</a></figcaption>
+    </figure>
+  </section>
+  {%- endif %}
+
+  {%- if site.posts.size > 0 %}
+  <section class="section">
+    <div class="section__head">
+      <h2 class="section__title">Latest writing</h2>
+      <a class="read-more" href="{{ '/blog/' | relative_url }}">All posts {% include icon.html name="arrow" %}</a>
+    </div>
+    <div class="grid grid--3">
+      {%- for post in site.posts limit: site.home_posts %}
+        {% include post-card.html post=post %}
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endif %}
+
+  <section class="section">
+    <div class="card contact">
+      <div>
+        <h2>Let's connect</h2>
+        <p>The best way to reach me is email or LinkedIn.</p>
+      </div>
+      <div class="contact__actions">
+        {%- if site.social.email %}<a class="btn btn--primary" href="mailto:{{ site.social.email }}">{% include icon.html name="email" %} {{ site.social.email }}</a>{% endif %}
+        {%- if site.social.linkedin %}<a class="btn" href="https://www.linkedin.com/in/{{ site.social.linkedin }}/" target="_blank" rel="noopener">{% include icon.html name="linkedin" %} LinkedIn</a>{% endif %}
+      </div>
+    </div>
+  </section>
+</div>

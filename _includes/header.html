@@ -1,0 +1,26 @@
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img class="brand__avatar" src="{{ site.avatar | relative_url }}" alt="" width="36" height="36">
+      <span class="brand__name">{{ site.name }}</span>
+    </a>
+
+    <button class="icon-btn nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">
+      {% include icon.html name="menu" %}
+    </button>
+
+    <nav id="site-nav" class="site-nav" aria-label="Main">
+      {%- for item in site.data.navigation %}
+        {%- assign item_url = item.url | relative_url -%}
+        {%- assign current = false -%}
+        {%- if page.url == item.url or page.url == item_url -%}{%- assign current = true -%}{%- endif -%}
+        {%- if item.url == "/blog/" and page.layout == "post" -%}{%- assign current = true -%}{%- endif %}
+      <a href="{{ item_url }}"{% if current %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {%- endfor %}
+      <button class="icon-btn theme-toggle" type="button" aria-label="Toggle dark mode">
+        <span class="theme-toggle__sun">{% include icon.html name="sun" %}</span>
+        <span class="theme-toggle__moon">{% include icon.html name="moon" %}</span>
+      </button>
+    </nav>
+  </div>
+</header>
